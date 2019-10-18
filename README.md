@@ -1,2 +1,2 @@
 # ObjectDetectionExercise
-exercise for object detection using opencv and python and java
+exercise for object detection modules using opencv and python and java
